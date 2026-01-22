@@ -16,4 +16,4 @@ plt.title(f"Graph with {count} points")
 plt.savefig("output/graph.png")
 print("Saved to output/graph.png")
 
-------------
+
